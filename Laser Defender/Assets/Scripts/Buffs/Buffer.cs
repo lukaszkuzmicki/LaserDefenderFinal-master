@@ -13,8 +13,7 @@ void OnTriggerEnter2D(Collider2D collider){
 				Destroy(gameObject);
 				PlayerController.greenbuuf = true;
 							
-				asdasd
-			}
+				}
 		}
 	}
 	

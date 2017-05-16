@@ -11,7 +11,7 @@ public class ScoreKeeper : MonoBehaviour {
 	
 	void Start(){
 		myText = GetComponent<Text>();
-	
+		Reset();
 		
 	}
 	

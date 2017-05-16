@@ -58,6 +58,8 @@
      <Compile Include="Assets\Entities\Score + others\ScoreKeeper.cs" />
      <Compile Include="Assets\Entities\Score + others\Shredder.cs" />
      <Compile Include="Assets\Entities\Score + others\TextManager.cs" />
+     <Compile Include="Assets\LaserAnimation.cs" />
+     <Compile Include="Assets\LevelDisplay.cs" />
      <Compile Include="Assets\Scripts\Buffs\Buffer.cs" />
      <Compile Include="Assets\Scripts\Buffs\RedBuff.cs" />
      <Compile Include="Assets\Scripts\Buffs\blueBuff.cs" />

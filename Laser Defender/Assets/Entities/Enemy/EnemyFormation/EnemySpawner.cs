@@ -54,7 +54,7 @@ public class EnemySpawner : MonoBehaviour {
 				GameObject missile = Instantiate(buffRed,startPosition,Quaternion.identity) as GameObject;	
 			}
 		}
-	if(spawnCounter == 25){
+	if(spawnCounter == 20){
 		buff = true;
 		
 		if(buff){
@@ -64,7 +64,7 @@ public class EnemySpawner : MonoBehaviour {
 		}
 	}
 	
-		if(spawnCounter == 55){
+		if(spawnCounter == 30){
 			buff = true;
 			
 			if(buff){
